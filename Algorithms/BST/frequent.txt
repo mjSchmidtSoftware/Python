@@ -1,0 +1,48 @@
+
+Top 20 words in Low Rating Tree
+
+value:    key:
+[(45743, 'taste'), 
+(41640, 'product'), 
+(34958, 'coffee'), 
+(32364, 'flavor'), 
+(26499, 'food'), 
+(23320, 'tea'), 
+(19755, 'buy'), 
+(16111, 'time'), 
+(16090, 'tried'), 
+(16066, 'amazon'), 
+(15694, 'box'), 
+(15556, 'little'), 
+(15062, 'try'), 
+(15002, 'bought'), 
+(14820, 'dog'), 
+(14439, 'eat'), 
+(14226, 'love'), 
+(13603, 'bad'), 
+(13506, 'water'), 
+(12783, 'price')]
+
+Top 20 words in High Rating Tree
+
+  value:     key:
+ (110725, 'coffee'),
+ (107898, 'taste'), 
+ (107259, 'love'), 
+ (98502, 'flavor'), 
+ (97639, 'tea'), 
+ (94119, 'product'), 
+ (84863, 'food'), 
+ (60649, 'little'), 
+ (58329, 'time'), 
+ (56355, 'amazon'), 
+ (55713, 'tried'), 
+ (55471, 'price'), 
+ (51109, 'buy'), 
+ (47024, 'eat'), 
+ (46996, 'try'), 
+ (45136, 'dog'), 
+ (40627, 'found'), 
+ (40005, 'chocolate'), 
+ (37052, 'bag'), 
+ (36128, 'water')

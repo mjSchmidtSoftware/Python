@@ -1,0 +1,64 @@
+Question 3 problem information 
+
+------------- asymptotic ------------
+High Rating:
+key: at2020 ,value:3
+
+Low Rating:
+key: asyouneed ,value: 1
+
+------------- binary ----------------
+
+High Rating:
+key: binaturae ,value: 1
+
+Low Rating: 	
+key: binbr ,value: 13
+
+------------- complexity ------------
+
+High Rating: 	
+key: complexity ,value: 196
+
+Low Rating:
+key: complexity, value:83
+
+------------- depth ------------
+
+High Rating: 	
+key: depth ,value: 492
+
+Low Rating:
+key: depth ,value: 183
+
+------------- mergesort ------------
+
+High Rating: 	
+key: merging ,value:5
+
+Low Rating: 	
+key: merging ,value: 1
+
+------------- quicksort ------------
+
+High Rating:
+key:	quickstop ,value: 2
+
+Low Rating:
+key: 	quickstop ,value:6
+
+------------- structure ------------
+
+High Rating: 	
+key: structure ,value:74
+
+Low Rating: 	
+key: structure ,value:27
+
+------------- theta ------------
+
+High Rating:
+key: 	thethought ,value:1
+
+Low Rating:
+key: 	thevey ,value: 1

@@ -1,0 +1,9 @@
+
+
+6: Justin Bieber, Woon-gyu Na
+6: Gary Estrada, Reginald Switz
+6: SoCal Crazy, Fritz van Wenkop
+7: Mingzhu Yu, Miranda Capulet
+6: Val Horner, Dan Erchun
+
+Our method of finding these thespian-thespians matches, was to print the vertex and its distance whenever a distance greater than or equal to 6 was encountered. This way we only have to randomly pick sources because levels would tell us the destinations. The first few guesses were random, but after we found SoCal Crazy's list of vertices of distance >= 6, we noticed a pattern. Picking any of those vertices would yield other paths of degree 6 or greater. 
